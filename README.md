@@ -9,53 +9,85 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Subham's ASCII portrait" src="dark_mode.svg" />
 </picture>
-
 <h2 align="center">🧠 AI JOURNEY</h2>
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://scikit-learn.org/" title="Machine Learning">
-  <img src="https://skillicons.dev/icons?i=sklearn" width="58" height="58" />
-</a>
+<td align="center">
+  <a href="https://scikit-learn.org/" title="Machine Learning">
+    <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55">
+  </a>
+  <br>
+  <sub><b>Machine Learning</b></sub>
+</td>
 
-&nbsp;&nbsp;→&nbsp;&nbsp;
+<td align="center">
+  <h2>→</h2>
+</td>
 
-<a href="https://pytorch.org/" title="Deep Learning">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="58" height="58" />
-</a>
+<td align="center">
+  <a href="https://pytorch.org/" title="Deep Learning">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55">
+  </a>
+  <br>
+  <sub><b>Deep Learning</b></sub>
+</td>
 
-&nbsp;&nbsp;→&nbsp;&nbsp;
+<td align="center">
+  <h2>→</h2>
+</td>
 
-<a href="https://huggingface.co/" title="Generative AI">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
-       width="58" height="58" />
-</a>
+<td align="center">
+  <a href="https://huggingface.co/" title="Generative AI">
+    <img
+      src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+      width="55"
+      height="55"
+    >
+  </a>
+  <br>
+  <sub><b>Generative AI</b></sub>
+</td>
 
-&nbsp;&nbsp;→&nbsp;&nbsp;
+<td align="center">
+  <h2>→</h2>
+</td>
 
-<a href="https://www.google.com/search?q=large+language+models"
-   title="Large Language Models">
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png"
-       width="58" height="58" />
-</a>
+<td align="center">
+  <a href="https://www.google.com/search?q=large+language+models"
+     title="Large Language Models">
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png"
+      width="55"
+      height="55"
+    >
+  </a>
+  <br>
+  <sub><b>LLMs</b></sub>
+</td>
 
-&nbsp;&nbsp;→&nbsp;&nbsp;
+<td align="center">
+  <h2>→</h2>
+</td>
 
-<a href="https://www.langchain.com/" title="Agentic AI — LangChain">
-  <img src="https://cdn.simpleicons.org/langchain"
-       width="58" height="58" />
-</a>
+<td align="center">
+  <a href="https://www.langchain.com/" title="Agentic AI — LangChain">
+    <img
+      src="https://cdn.simpleicons.org/langchain"
+      width="55"
+      height="55"
+    >
+  </a>
+  <br>
+  <sub><b>Agentic AI</b></sub>
+</td>
 
-</p>
+</tr>
+</table>
 
 <p align="center">
   <samp>
-    Machine Learning → Deep Learning → Generative AI → LLMs → Agentic AI
+    ML → DL → GenAI → LLMs → Agentic AI
   </samp>
-</p>
-
-<p align="center">
-  <sub>
-    Learn → Build → Experiment → Integrate → Automate
-  </sub>
 </p>
