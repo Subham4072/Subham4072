@@ -9,3 +9,53 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Subham's ASCII portrait" src="dark_mode.svg" />
 </picture>
+
+<h2 align="center">🧠 AI JOURNEY</h2>
+
+<p align="center">
+
+<a href="https://scikit-learn.org/" title="Machine Learning">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="58" height="58" />
+</a>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<a href="https://pytorch.org/" title="Deep Learning">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="58" height="58" />
+</a>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<a href="https://huggingface.co/" title="Generative AI">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+       width="58" height="58" />
+</a>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<a href="https://www.google.com/search?q=large+language+models"
+   title="Large Language Models">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png"
+       width="58" height="58" />
+</a>
+
+&nbsp;&nbsp;→&nbsp;&nbsp;
+
+<a href="https://www.langchain.com/" title="Agentic AI — LangChain">
+  <img src="https://cdn.simpleicons.org/langchain"
+       width="58" height="58" />
+</a>
+
+</p>
+
+<p align="center">
+  <samp>
+    Machine Learning → Deep Learning → Generative AI → LLMs → Agentic AI
+  </samp>
+</p>
+
+<p align="center">
+  <sub>
+    Learn → Build → Experiment → Integrate → Automate
+  </sub>
+</p>
