@@ -4,42 +4,8 @@
   </a>
 </p>
 
-
-<table>
-<tr>
-<td width="50%" align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode_cleaned.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode_cleaned.svg" />
-  <img alt="Subham's ASCII portrait" src="dark_mode.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Subham's ASCII portrait" src="dark_mode.svg" />
 </picture>
-
-</td>
-
-<td width="50%" valign="middle">
-
-<h2>SUBHAM MAHARANA</h2>
-
-<h3>AI Engineer</h3>
-
-<p>
-🐍 Python Developer<br>
-⚡ FastAPI • React<br>
-🤖 Machine Learning<br>
-🧠 Generative AI • LLMs<br>
-🔗 Agentic AI
-</p>
-
-<pre>
-OS       : Windows
-Editor   : VS Code
-Language : Python
-Focus    : GenAI + Agentic AI
-Status   : Building AI Systems 🟢
-</pre>
-
-</td>
-</tr>
-</table>
-Result
