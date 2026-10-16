@@ -91,3 +91,71 @@
     ML → DL → GenAI → LLMs → Agentic AI
   </samp>
 </p>
+
+<h2 align="center">🧠 Technical Skills</h2>
+
+<table align="center" cellpadding="20" cellspacing="0">
+<tr>
+<td align="center" width="50%">
+  <br>
+  <h5>&emsp;&emsp;🐍 Programming & Data&emsp;&emsp;</h5>
+  <img src="https://skillicons.dev/icons?i=py,java,c" />
+  <img src="https://cdn.simpleicons.org/jupyter" height="48" />
+  <br><br>
+</td>
+<td align="center" width="50%">
+  <br>
+  <h5>&emsp;&emsp;🤖 Machine Learning & Deep Learning&emsp;&emsp;</h5>
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow" />
+  <img src="https://cdn.simpleicons.org/keras" height="48" />
+  <br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <br>
+  <h5>&emsp;&emsp;✨ Generative AI & RAG&emsp;&emsp;</h5>
+  <img src="https://cdn.simpleicons.org/huggingface" height="48" />
+  <img src="https://cdn.simpleicons.org/langchain" height="48" />
+  <br><br>
+</td>
+<td align="center">
+  <br>
+  <h5>&emsp;&emsp;🧠🤖 Agentic AI&emsp;&emsp;</h5>
+  <img src="https://cdn.simpleicons.org/langchain" height="48" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="48" />
+  <br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <br>
+  <h5>&emsp;&emsp;⚙️ Backend & APIs&emsp;&emsp;</h5>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postman" />
+  <br><br>
+</td>
+<td align="center">
+  <br>
+  <h5>&emsp;&emsp;🌐 Frontend&emsp;&emsp;</h5>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+  <br><br>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <br>
+  <h5>&emsp;&emsp;🗄️ Databases&emsp;&emsp;</h5>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <br><br>
+</td>
+<td align="center">
+  <br>
+  <h5>&emsp;&emsp;☁️ Deployment & Development&emsp;&emsp;</h5>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,windows" />
+  <br><br>
+</td>
+</tr>
+</table>
