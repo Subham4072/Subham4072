@@ -159,3 +159,82 @@
 </td>
 </tr>
 </table>
+
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<table align="center">
+<tr>
+
+<td width="33%" valign="top">
+  <h3>🔌 Remote MCP Server</h3>
+  <p>A remote Model Context Protocol server built in Python for testing tool-calling with LLMs.</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <br><br>
+  <a href="https://github.com/Subham4072/Remote_MCP_server">📂 View Repo</a>
+</td>
+
+<td width="33%" valign="top">
+  <h3>🎓 Student Score Prediction</h3>
+  <p>Machine learning system that predicts student scores, with a deployed web demo.</p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <br><br>
+  <a href="https://github.com/Subham4072/Student_score_prediction_system">📂 Repo</a> ·
+  <a href="https://student-score-prediction-system-two.vercel.app">🌐 Live Demo</a>
+</td>
+
+<td width="33%" valign="top">
+  <h3>♟️ PAWNIN-AI</h3>
+  <p>AI-powered web app built with TypeScript and deployed on Vercel.</p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <br><br>
+  <a href="https://github.com/Subham4072/PAWNIN-AI">📂 Repo</a> ·
+  <a href="https://pawnin-ai.vercel.app">🌐 Live Demo</a>
+</td>
+
+</tr>
+</table>
+
+<details>
+  <summary><b>📁 More projects (click to expand)</b></summary>
+  <br>
+
+  - 🖥️ [Micro-Star-International-web](https://github.com/Subham4072/Micro-Star-International-web) · [Live site](https://subham4072.github.io/Micro-Star-International-web/)
+  - 📘 [SYNAPSE_project](https://github.com/Subham4072/SYNAPSE_project)
+  - 📘 [NMIET-HT-PROJECT](https://github.com/Subham4072/NMIET-HT-PROJECT)
+</details>
+
+<br>
+
+<h2 align="center">📊 GITHUB STATS</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Subham4072&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham4072&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Subham4072&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/subham4072/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:work.subhammaharana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Subham4072">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Subham4072&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
