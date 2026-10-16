@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Subham4072">
-    <img src="typing.svg" alt="Subham Maharana typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=Hey!+I'm+Subham+Maharana+%F0%9F%91%8B;AI+Engineer+%7C+Python+Developer;ML+%E2%86%92+GenAI+%E2%86%92+Agentic+AI+%F0%9F%A4%96;Let's+build+something+intelligent+%F0%9F%9A%80" alt="Typing animation" />
   </a>
 </p>
 
